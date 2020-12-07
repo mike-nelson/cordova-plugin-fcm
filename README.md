@@ -20,7 +20,9 @@ Also, if you get the following issue:
 
 `This project uses AndroidX dependencies, but the 'android.useAndroidX' property is not enabled`
 
-Then install this:
+Then install these:
+
+`cordova plugin add cordova-plugin-androidx'    note don't worrry if it says it it the wrong version, it will still work
 
 `cordova plugin add cordova-plugin-androidx-adapter`
 
