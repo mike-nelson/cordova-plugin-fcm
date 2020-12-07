@@ -1,3 +1,17 @@
+# Google Firebase Cloud Messaging Cordova Push Plugin with Fixes
+
+2020-12-07: 
+This repo incorporates an Android build fix from issue https://github.com/fechanique/cordova-plugin-fcm/issues/501
+
+Issue was:
+`The "chunk" argument must be of type string or an instance of Buffer. Received an instance of Error`
+
+For the following issue:
+`This project uses AndroidX dependencies, but the 'android.useAndroidX' property is not enabled`
+
+Use this:
+`cordova plugin add cordova-plugin-androidx-adapter`
+
 # Google Firebase Cloud Messaging Cordova Push Plugin
 > Extremely easy plug&play push notification plugin for Cordova applications with Google Firebase FCM.
 
