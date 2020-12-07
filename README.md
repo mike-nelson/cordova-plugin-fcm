@@ -22,7 +22,7 @@ Also, if you get the following issue:
 
 Then install these:
 
-`cordova plugin add cordova-plugin-androidx'    note don't worrry if it says it it the wrong version, it will still work
+`cordova plugin add cordova-plugin-androidx`    note don't worrry if it says it it the wrong version, it will still work
 
 `cordova plugin add cordova-plugin-androidx-adapter`
 
