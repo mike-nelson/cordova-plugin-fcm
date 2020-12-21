@@ -1,5 +1,10 @@
 # Google Firebase Cloud Messaging Cordova Push Plugin with Fixes
 
+2020-12-22
+
+Tested - DOES NOT WORK ON ANDROID
+(Works fine on iOS)
+
 2020-12-07
 
 This repo incorporates an Android build fix.
